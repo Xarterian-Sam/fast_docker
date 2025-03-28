@@ -1,0 +1,10 @@
+[project]
+name = "mipypy"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi>=0.115.12",
+    "huggingface-hub>=0.29.3",
+]
