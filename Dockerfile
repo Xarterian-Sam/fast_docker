@@ -17,4 +17,4 @@ COPY . /app
 
 EXPOSE 5000
 
-CMD ["uv", "run", "your_app.py"]
+CMD ["uv", "run", "main.py"]
